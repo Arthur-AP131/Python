@@ -36,3 +36,4 @@ censurar(cpf)
    #     print("Seu CPF censurado é:", censurar(cpf))
     #except ValueError as e:
      #   print(e)
+     
