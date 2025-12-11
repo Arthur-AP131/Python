@@ -120,3 +120,5 @@ elif calculo ==2:
 else:
     print("\nSelecione uma das opções disponiveis (só a soma no momento)\n")
 
+
+# mais de 4 dias tentando fazer a mutiplicação sozinho. desisto 
