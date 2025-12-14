@@ -1,3 +1,5 @@
+#LEMBRAR DE UM DIA COMENTAR ESSE CODIGO
+
 matriz_2=[]
 matriz_1=[]
 resultado=[]
@@ -23,7 +25,7 @@ def Adição(n_linhas,n_colunas):
         for i in range(n_linhas):
             linha = []
             for j in range(n_colunas):
-                soma = matriz_1[i*2 + j] + matriz_2[i*2 + j] #que coisa ridicula
+                soma = matriz_1[i*2 + j] + matriz_2[i*2 + j] 
                 linha.append(soma)
             resultado.append(linha)
 
@@ -40,7 +42,7 @@ def Subtracao(n_linhas,n_colunas):
         for i in range(n_linhas):
             linha = []
             for j in range(n_colunas):
-                subtracao = matriz_1[i*2 + j] - matriz_2[i*2 + j] #que coisa ridicula
+                subtracao = matriz_1[i*2 + j] - matriz_2[i*2 + j] 
                 linha.append(subtracao)
             resultado.append(linha)
 
